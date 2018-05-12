@@ -1,0 +1,30 @@
+_repo: Modern-Skepticism--A-Journey-Through-the-Land-of-Doubt-and-Back-AgainA-Life-Story_18675
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barker, Joseph
+    birthdate: 1806
+    deathdate: 1875
+    gutenberg_agent_id: '8187'
+    url: http://www.gutenberg.org/2009/agents/8187
+description: ''
+gutenberg_issued: '2006-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18675'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Methodist Church -- Clergy -- Biography'
+- !lcc 'BX'
+- !lcsh 'Barker, Joseph, 1806-1875'
+- !lcsh 'Skepticism'
+title: 'Modern Skepticism: A Journey Through the Land of Doubt and Back Again
+
+  A Life Story'
+url: http://www.gutenberg.org/ebooks/18675
